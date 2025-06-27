@@ -31,14 +31,6 @@ Back end: PHP, MySQL
  	<li>MAMP Server</li>
  	<li>LAMP Server</li>
 </ul>
-<h3 id="installation" class="notes">Installation Steps</h3>
-1. Download zip file and Unzip file on your local server.
-2. Put this file inside "c:/wamp/www/" .
-3. Database Configuration
-Open phpmyadmin
-Create Database named <strong>art_galley</strong>.sql
-Import database art_gallry.sql from downloaded folder(inside database)
-4. Open Your browser put inside "<a class="vglnk" href="http://localhost/Online_exam_New/" rel="nofollow">http://localhost/project folder/</a>"
 
 </div>
 </div>
